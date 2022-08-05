@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MPlots:jar">
+    <output-path>$PROJECT_DIR$/../../Development/Minecraft Jars/Paper Server 1.19/plugins</output-path>
+    <root id="archive" name="MPlots.jar">
+      <element id="module-output" name="MPlots" />
+    </root>
+  </artifact>
+</component>
